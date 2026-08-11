@@ -63,4 +63,6 @@ The complete project is available in:
 
 ## Author
 
-**Anagha Borkar**
+Anagha Borkar
+💻 GitHub: anaghaborkar62-netizen
+💼 LinkedIn: Anagha Borkar
