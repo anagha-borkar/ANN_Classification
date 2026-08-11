@@ -64,5 +64,3 @@ The complete project is available in:
 ## Author
 
 Anagha Borkar
-💻 GitHub: anaghaborkar62-netizen
-💼 LinkedIn: Anagha Borkar
